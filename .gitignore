@@ -1,5 +1,7 @@
+# Dependencies
+.deps
 node_modules
 
-#Hardhat files
-cache
-artifacts
+# Hardhat Directories
+cache/
+artifacts/
